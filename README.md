@@ -7,4 +7,9 @@ This folder contains the Python codes of all prediction models in my writing sam
 
 
 
-#### 2. Codes for numerical implementations of some macro models
+#### 2. Codes for numerical implementations of macro models
+This folders contains my experiments on numerical solutios of some simple macro models. They are some extension of the QuantEcon's lectures on similar topics. Since these experiments benefit hugely from QuantEcon, you need to first install the quantecon library before running these notebooks. Here are the references I replied on when I wrote these notebooks:
+
+* Adda, J., & Cooper, R. (2003). Dynamic Economics: Quantitative Methods and Applications. Cambridge, MA: MIT Press.
+* Fehr, H., & Kindermann, F. (2018). Introduction to Computational Economics Using fortran. Oxford, U.K.: Oxford University Press.
+* [QuantEcon's lectures](https://lectures.quantecon.org)
