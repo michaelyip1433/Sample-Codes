@@ -11,5 +11,5 @@ This folder contains the Python codes of my writing sample. The codes for diagra
 This folder contains my experiments on numerical solutios of some simple macro models. They are the extension of the QuantEcon's lectures on similar topics. Since these experiments benefit hugely from QuantEcon, you need to first install the quantecon library before running these notebooks. Here are the references I relied on when I wrote these notebooks:
 
 * Adda, J., & Cooper, R. (2003). Dynamic Economics: Quantitative Methods and Applications. Cambridge, MA: MIT Press.
-* Fehr, H., & Kindermann, F. (2018). Introduction to Computational Economics Using fortran. Oxford, U.K.: Oxford University Press.
+* Fehr, H., & Kindermann, F. (2018). Introduction to Computational Economics Using Fortran. Oxford, U.K.: Oxford University Press.
 * [QuantEcon's lectures](https://lectures.quantecon.org)
